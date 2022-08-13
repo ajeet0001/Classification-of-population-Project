@@ -1,4 +1,4 @@
-# Classification-of-population-Project
+# Classification-Of-Population
 Using classification techniques , help a marketing team launch a promotion campaign in different region of the country
 ## Python Libraries:
 * Scikit-learn [(sklearn)](https://en.wikipedia.org/wiki/Scikit-learn) is a free software machine learning library for the Python programming language.
